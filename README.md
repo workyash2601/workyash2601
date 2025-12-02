@@ -13,5 +13,3 @@
 - Passionate about problem-solving, math, and tech stacks [web:18]
 - Building skills in engineering and programming daily
 
-## 🛠️ Tech Stack
-
