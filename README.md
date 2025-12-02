@@ -10,6 +10,6 @@
 ## 🚀 About Me
 - Completed Python fundamentals and Data Science in Python
 - Currently diving into Machine Learning
-- Passionate about problem-solving, math, and tech stacks [web:18]
+- Passionate about problem-solving, math, and tech stacks
 - Building skills in engineering and programming daily
 
